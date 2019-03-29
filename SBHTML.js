@@ -18,7 +18,7 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-            ['R', 'HTML %s', 'lhtml', '<p>Wow. Much hack. </p>'],
+            ['W', 'HTML %s', 'lhtml', '<p>Wow. Much hack. </p>'],
         ]
     };
 
