@@ -9,10 +9,8 @@
     };
 
     ext.lhtml = function(lhtmli) {
-    var ltarget = document.getElementById("scratch");
-    ltarget.innerHTML = lhtmli;
-
-       
+    document.write(lhtmli);
+      
     };
 
     // Block and block menu descriptions
